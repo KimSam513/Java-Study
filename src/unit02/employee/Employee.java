@@ -2,6 +2,8 @@ package unit02.employee;
 
 public abstract class Employee {
 
+	
+	//주석버전!!! 주석을 달아서 깃트에서 변경사항을 확인해보자!!
 	String no;
 	String name;
 	int career;
